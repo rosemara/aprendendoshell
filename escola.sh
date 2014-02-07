@@ -69,5 +69,5 @@ done
 # angela ferreira
 # Fernando Graeff Machado
 # joao clovis
-# Reinaldo Reche Junior
+# Rosemara da Silva
 
